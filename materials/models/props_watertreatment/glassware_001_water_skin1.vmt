@@ -1,5 +1,0 @@
-"VertexlitGeneric"
-{
-         $basetexture "Models/props_watertreatment/glassware_001_water"
-	"$envmap" "env_cubemap"
-}
