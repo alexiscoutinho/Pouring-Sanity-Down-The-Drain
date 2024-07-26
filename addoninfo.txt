@@ -2,7 +2,7 @@
 {   
      addonSteamAppID 		550			
      addontitle 			"Pouring (Sanity) Down The Drain"
-     addonversion 			"1.0.3"
+     addonversion 			"1.0.4"
      addontagline 			"A cup of cold coffee and ketamine" // short desc
      addonauthor			"Nekowhixp"
 	 addonSteamGroupName    "group"
