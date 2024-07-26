@@ -12,7 +12,7 @@
 	 addonContent_Campaign      1
 	 addonContent_Map           0
 	 addonContent_Versus        1			 //Has Versus Gamemode
-	 addonContent_Script		0			// Has Scripts 
+	 addonContent_Script		1			// Has Scripts 
      addonContent_Music			0			// Has Custom Music 
      addonContent_Sound			0			// Has Custom Sound 
      addonContent_prop			1			// This Add-on provides new props, 
