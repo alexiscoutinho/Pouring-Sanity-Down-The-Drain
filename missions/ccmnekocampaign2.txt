@@ -68,6 +68,45 @@
 				"DisplayName" "3: Old Hospital"
 				"Image" "maps/ccbn_map3"
 			}
+			"4"
+			{
+				"Map" "ccbn_skyline"
+				"DisplayName" "4: Skyline"
+				"Image" "maps/ccbn_map4"
+			}
+
+
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map" "ccbn_offices"
+				"DisplayName" "1: Offices"
+				"Image" "maps/ccbn_map1"
+				"VersusCompletionScore"	"600"
+			}
+			"2"
+			{
+				"Map" "ccbn_flooded"
+				"DisplayName" "2: Flooded"
+				"Image" "maps/ccbn_map2"
+				"VersusCompletionScore"	"500"
+			}
+			"3"
+			{
+				"Map" "ccbn_old_hospital"
+				"DisplayName" "3: Old Hospital"
+				"Image" "maps/ccbn_map3"
+				"VersusCompletionScore"	"700"
+			}
+			"4"
+			{
+				"Map" "ccbn_skyline"
+				"DisplayName" "4: Skyline"
+				"Image" "maps/ccbn_map4"
+				"VersusCompletionScore"	"700"
+			}
 
 
 		}

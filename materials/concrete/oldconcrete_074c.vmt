@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete/oldconcrete_074c"
+	"$bumpmap" "concrete/oldconcrete_074_ssbump"
+	"$ssbump" "1"
+	"$ssbumpmathfix" "1"
+	"$surfaceprop" "concrete"
+}
