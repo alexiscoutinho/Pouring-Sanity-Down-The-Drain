@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_watertreatment/glassware_004"
+	"$alpha" 0.5
+
+	"$phong" "1"
+	"$phongexponent" "40"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongtint" "[1 1 1]"
+	"$basemapalphaphongmask" "1"
+
+	"$rimlight" "1"
+	"$rimlightboost" "10"
+	"$rimlightexponent" "10"
+
+	Proxies
+	{
+		UseHighlight
+		{
+			strength 3
+		}
+	}
+}

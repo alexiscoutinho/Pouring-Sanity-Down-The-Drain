@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "ccbn_textures/lib_spray"
+	"$decal" "1"
+	"$decalscale" 0.04
+	"$translucent" 1
+}
