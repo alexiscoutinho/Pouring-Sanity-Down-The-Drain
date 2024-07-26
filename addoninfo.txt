@@ -2,13 +2,15 @@
 {   
      addonSteamAppID 		550			
      addontitle 			"Pouring (Sanity) Down The Drain"
-     addonversion 			"1"
+     addonversion 			"1.0.3"
      addontagline 			"A cup of cold coffee and ketamine" // short desc
      addonauthor			"Nekowhixp"
 	 addonSteamGroupName    "group"
 	 addonauthorSteamID	    "nekowhixp"
 	 addonURL0			"https://steamcommunity.com/sharedfiles/filedetails/?id=3274783750"	// your map URL
-     addonDescription       "After crashing in an abandoned warehouse, the survivors will have to make their way to and through an infamous medical facility"
+     addonDescription       "After crashing in an abandoned warehouse, the survivors will have to make their way to and through an infamous medical facility
+	 
+	 Source:  https://github.com/alexiscoutinho/Pouring-Sanity-Down-The-Drain"
 	 addonContent_Campaign      1
 	 addonContent_Map           0
 	 addonContent_Versus        1			 //Has Versus Gamemode
