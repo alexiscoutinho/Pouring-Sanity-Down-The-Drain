@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tile/tile_wall_010"
+	"$surfaceprop" "Tile"
+}

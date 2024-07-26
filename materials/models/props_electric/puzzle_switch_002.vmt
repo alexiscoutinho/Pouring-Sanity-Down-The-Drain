@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/props_electric/puzzle_switch_002"
+	Proxies
+	{
+		UseHighlight
+		{
+			strength 1
+		}
+	}
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_machinery/small_crane_01_hook"
+
+	"$detail"		"detail/detail_rust_002"
+	"$detailscale" 		"3"
+	"$detailblendfactor" 	"0.7"
+	"$detailblendmode" 	"0"
+}

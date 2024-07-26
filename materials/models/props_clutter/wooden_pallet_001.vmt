@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_clutter/wooden_pallet_001"
+
+	"$blendtintbybasealpha"		"1"
+}

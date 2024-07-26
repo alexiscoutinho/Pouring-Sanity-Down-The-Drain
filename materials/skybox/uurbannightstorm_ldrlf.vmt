@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture skybox/uurbannightstorm_ldrlf
+	$nofog 1
+	$ignorez 1
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/oldmetal_021b"
+	"$bumpmap" "metal/oldmetal_021_ssbump"
+"$ssbump" "1"
+"$ssbumpmathfix" "1"
+	"$surfaceprop" "MetalPanel"
+}

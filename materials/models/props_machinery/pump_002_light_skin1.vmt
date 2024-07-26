@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_machinery/pump_002_light"
+	"$selfillum"		"1"
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/control_panel_003-6_lights_skin1"
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 		"40"
+	"$phongboost" 		"2"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+
+	"$selfillum"		"1"
+}

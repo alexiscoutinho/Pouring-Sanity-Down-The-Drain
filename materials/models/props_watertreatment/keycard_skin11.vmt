@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_watertreatment/keycard_skin11"
+	Proxies
+	{
+		UseHighlight
+		{
+			strength 2
+		}
+	}
+}

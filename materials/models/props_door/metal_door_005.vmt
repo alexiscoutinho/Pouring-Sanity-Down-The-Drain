@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	"$basetexture"		"models\props_door\metal_door_005"
+	"$bumpmap"              "models\props_door\metal_door_005_normal"
+	"$envmapmask"           "models\props_door\metal_door_005_env"
+	"$surfaceprop"          "metal"
+	"$blendtintbybasealpha"	"1"
+	"$envmap" "env_cubemap"
+   	"$envmaptint" "[.01 .01 .01]"
+	"$normalmapalphaenvmapmask" 1	
+	"$halflambert" 			"1"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"50"
+	"$phongboost" 			"0.2"
+	"$phongfresnelranges" 		"[0.5 0.5 1]"
+
+
+
+}

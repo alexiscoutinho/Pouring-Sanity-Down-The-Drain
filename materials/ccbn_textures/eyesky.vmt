@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ccbn_textures/eyesky"
+	"$surfaceprop" "MetalPanel"
+}

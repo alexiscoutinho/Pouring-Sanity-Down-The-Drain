@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_pipes/metal_pipe_004"
+	"$bumpmap"		"models/props_pipes/metal_pipe_004_bump"
+	"$detail" 			"detail/detail_noise_002"
+	"$detailscale" 		"12"
+	"$detailblendfactor" 	"0.9"
+	"$detailblendmode" "0"
+	
+
+"$envmap"		"env_cubemap"
+"$envmaptint" 		"[0.2 0.2 0.2]"
+
+$FlashlightNoLambert 1
+
+
+}

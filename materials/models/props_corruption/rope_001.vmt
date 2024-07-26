@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_corruption/rope_001"
+	"$detail" 			"detail/detail_cloth_002"
+	"$detailtexturetransform"	"center .5 .5 scale 0.2 0.2 rotate 0 translate 0 0"
+	"$detailblendfactor" 		"1"
+	"$detailblendmode" "0"
+}

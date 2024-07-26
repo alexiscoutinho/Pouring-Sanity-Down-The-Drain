@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_elevator/elevator_002_panel"
+	"$bumpmap" "models/props_elevator/elevator_002_panel_n"
+	"$envmap" "env_cubemap"
+	$envmaptint "[0.2 0.2 0.2]"
+}

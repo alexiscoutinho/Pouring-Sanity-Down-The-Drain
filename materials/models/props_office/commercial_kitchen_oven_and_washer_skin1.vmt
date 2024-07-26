@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/props_office/commercial_kitchen_oven_and_washer_skin1"
+	"$bumpmap"		"models/props_office/commercial_kitchen_oven_and_washer_skin1_normal"
+
+
+
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" 		"4"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+
+	"$envmap"		"env_cubemap"
+	"$envmaptint" 		"[0.05 0.055 0.06]"
+	"$normalmapalphaenvmapmask"	"1"
+}
+

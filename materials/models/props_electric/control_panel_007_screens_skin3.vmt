@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/control_panel_007_screens_skin3"
+	"$selfillum" 1
+        "Proxies" 
+{ 
+"AnimatedTexture" 
+{ 
+"animatedTextureVar" "$basetexture" 
+"animatedTextureFrameNumVar" "$frame" 
+"animatedTextureFrameRate" "10" 
+}
+}
+"$surfaceprop" "metal"
+"$frame" "10"
+}

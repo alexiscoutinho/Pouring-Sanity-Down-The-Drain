@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_clutter/barrel_skin7"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	"$nocull" 1
+}

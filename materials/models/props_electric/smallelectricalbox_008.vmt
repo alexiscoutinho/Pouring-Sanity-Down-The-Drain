@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/smallelectricalbox_008"
+	"$basemapalphaphongmask" "1"
+
+	"$phong" "1"
+	"$phongboost"   "0.5"
+	"$phongfresnelranges" "[0.6 0.6 0.6]"
+	"$phongalbedotint" "1"
+	"$phongexponent"	"20"
+
+	"$rimlight"	"1"
+	"$rimlightboost"	"1"
+	"$rimlightfresnelranges" "[0.6 0.6 0.6]"
+	"$rimlightexponent"	"20"
+}

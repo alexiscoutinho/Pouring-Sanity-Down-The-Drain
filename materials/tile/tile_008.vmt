@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tile/tile_008"
+	"$bumpmap"     "tile/tile_008_ssbump"
+	"$ssbump" "1"
+	"$ssbumpmathfix" "1"
+	"$surfaceprop" "Tile"
+	"$envmap" "env_cubemap"
+        "$envmaptint" "[ .1 .1 .1 ]"
+
+	"$detail"		"detail/tile_detail_001"
+	"$detailscale" 		"0.25"
+	"$detailblendfactor" 	"0.5"
+	"$detailblendmode" "8"
+}

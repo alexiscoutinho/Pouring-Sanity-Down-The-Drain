@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_machinery/large_transformer_skin1"
+	"$detail" 			"detail/detail_metal_002"
+	"$detailblendfactor" 		"1"
+	"$detailblendmode" "0"
+	$detailscale 16
+}

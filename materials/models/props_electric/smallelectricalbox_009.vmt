@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/smallelectricalbox_009"
+	"$halflambert"	"1"
+	"$bumpmap"	"models/props_electric/smallelectricalbox_009_normal"
+	"$blendtintbybasealpha"	"1"
+
+	"$phong" "1"
+	"$phongboost"   "0.5"
+	"$phongfresnelranges" "[0.6 0.6 0.6]"
+	"$phongalbedotint" "1"
+	"$phongexponent"	"20"
+
+	//rimlight
+	"$rimlight"	"1"
+	"$rimlightboost"	"1"
+	"$rimlightfresnelranges" "[0.6 0.6 0.6]"
+	"$rimlightexponent"	"20"
+	//
+}

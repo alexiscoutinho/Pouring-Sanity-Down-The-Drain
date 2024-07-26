@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_door/rusty_door_001"
+
+	// no per-vertex lighting
+
+	"$phong" 						"1"
+	"$phongexponent" 				"10"
+	"$phongboost" 					"0"
+	"$phongfresnelranges" 			"[0 0 0]"
+	"$basemapalphaphongmask" 		"1"
+	"$basemapluminancephongmask" 	"0"
+
+	Proxies
+	{
+		UseHighlight
+		{
+			strength 0.5
+		}
+	}
+}

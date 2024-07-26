@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/control_panel_007_screens"
+	"$envmap" "env_cubemap"
+}

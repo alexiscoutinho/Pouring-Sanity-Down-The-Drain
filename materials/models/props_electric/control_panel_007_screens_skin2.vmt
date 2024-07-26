@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/control_panel_007_screens_skin2"
+	"$envmap" "env_cubemap"
+	"$selfillum" 1
+        "Proxies" 
+{ 
+"AnimatedTexture" 
+{ 
+"animatedTextureVar" "$basetexture" 
+"animatedTextureFrameNumVar" "$frame" 
+"animatedTextureFrameRate" "10" 
+}
+}
+
+"$frame" "10"
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{	
+	"$basetexture" 		"models/props_structure/city_railing_set"
+	"$bumpmap"		"models/props_structure/city_railing_set_normal"
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" 		"3"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/props_office/fire_cabinet"
+$nocull 1
+$FlashlightNoLambert 1
+
+}

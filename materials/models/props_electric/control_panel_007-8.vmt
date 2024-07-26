@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/control_panel_007-8"
+
+	"$detail" 			"detail/detail_noise_002"
+	"$detailtexturetransform"	"center .5 .5 scale 12 3 rotate 0 translate 0 0"
+	"$detailblendfactor" 		"0.5"
+	"$detailblendmode" "0"
+}

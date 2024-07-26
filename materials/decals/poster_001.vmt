@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture" "decals/poster_001"
+	"$translucent" 1
+$decal 1
+$decalscale 0.04
+}

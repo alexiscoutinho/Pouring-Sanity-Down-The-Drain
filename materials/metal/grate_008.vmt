@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/grate_008"
+	"$surfaceprop" "MetalGrate"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+}

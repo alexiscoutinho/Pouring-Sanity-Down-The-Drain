@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metal_rustygrate"
+	"$surfaceprop" "Chainlink"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+}

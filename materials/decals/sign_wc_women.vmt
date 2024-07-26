@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	"$basetexture" 		"decals/sign_wc_women"
+
+//	"$vertexcolor" 		"1"
+	"$vertexalpha" 		"1"
+
+	"$translucent" 		"1"
+
+
+	"$decal"		"1"
+	"$decalscale"		"0.03"
+}

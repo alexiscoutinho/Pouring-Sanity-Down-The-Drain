@@ -1,0 +1,55 @@
+Water
+{
+$forceexpensive 1
+$reflectentities 1
+$normalmap "liquids/water_river_normal_sharp"
+$flowmap "liquids/c2_m3_flowmap"
+$flow_normaluvscale 160
+$flow_worlduvscale 1
+$flow_timeintervalinseconds 0.5
+$flow_uvscrolldistance 0.05
+$flow_bumpstrength .35
+$flow_timescale .1
+$flow_noise_texture "liquids/water_noise2"
+$flow_noise_scale 0.0005
+$flow_debug 0
+
+//$basetexture "liquids/c2_m3_flowmap"
+$color_flow_uvscale 48
+$color_flow_timeintervalinseconds 4.0
+$color_flow_uvscrolldistance 0.05
+$color_flow_lerpexp 1
+$color_flow_displacebynormalstrength 0.2
+
+
+$reflectonlymarkedentities 0
+
+$forceenvmap 1
+$envmap env_cubemap
+"!gameconsole?$reflecttexture" _rt_WaterReflection
+"!gameconsole?$reflectamount" "0.4"
+"gameconsole?$reflecttint" "{ 190 190 190 }"
+
+
+
+$abovewater 1
+$bottommaterial "nature/water_reservoir_01_beneath"
+$fogenable 1
+$fogstart 0
+$fogend 150
+$lightmapwaterfog 1
+
+$fogcolor "{ 54 61 55 }"
+$flashlighttint 1
+"%compilewater" 1
+"%tooltexture" "nature/water_frame01_normal"
+$surfaceprop slime
+
+"!gameconsole?$refracttexture" _rt_WaterRefraction
+"!gameconsole?$refractamount" "0.25"
+"!gameconsole?$refracttint" "{ 67 78 82 }"
+
+"gameconsole?$pseudotranslucent" 1
+"gameconsole?$waterblendfactor" 0.75
+$reflect2dskybox 1
+}

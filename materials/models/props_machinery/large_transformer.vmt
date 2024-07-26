@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "models/props_machinery/large_transformer"
+	"$bumpmap"	"models/props_machinery/large_transformer_normal"
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"50"
+	"$phongboost" 		"1"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+
+
+	"$envmap" "env_cubemap"
+   	"$envmaptint" "[.1 .1 .1]"
+	"$basealphaenvmapmask"		"1"
+	"$detail" 			"detail/detail_metal_002"
+	"$detailblendfactor" 		"1"
+	"$detailblendmode" "0"
+	$detailscale 16
+}

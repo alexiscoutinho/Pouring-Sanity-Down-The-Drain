@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_clutter/crate_02"
+	"$bumpmap"     "models/props_clutter/crate_02_skin1_normal"
+
+	"$detail" "detail\detail_wood_001"
+	"$detailscale" "7.792"
+	"$detailblendfactor" .7
+	"$detailblendmode" "0"
+}

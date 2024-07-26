@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "models/props_easteregg/mask_001_white_skin1"
+	"$bumpmap"	"models/props_easteregg/mask_001_white_normal"
+
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"7"
+	"$phongboost" 		"3"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+}

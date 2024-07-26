@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_clutter/dynamite_set"
+$FlashlightNoLambert 1
+	Proxies
+	{
+		UseHighlight
+		{
+			strength 1
+		}
+	}
+}

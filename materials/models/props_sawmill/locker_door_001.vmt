@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_sawmill/locker_door_001"
+
+	Proxies
+	{
+		UseHighlight
+		{
+			strength 1
+		}
+	}
+}
