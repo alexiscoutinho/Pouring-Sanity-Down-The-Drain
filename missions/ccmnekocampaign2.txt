@@ -62,6 +62,12 @@
 				"DisplayName" "2: Flooded"
 				"Image" "maps/ccbn_map2"
 			}
+			"3"
+			{
+				"Map" "ccbn_old_hospital"
+				"DisplayName" "3: Old Hospital"
+				"Image" "maps/ccbn_map3"
+			}
 
 
 		}

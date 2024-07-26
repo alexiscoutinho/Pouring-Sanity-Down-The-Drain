@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/items/keys_003"
+	"$bumpmap" "models/items/keys_003_bump"
+	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.212 .175 .055]"
+
+	"$halflambert" 		"1"
+	"$phong" "1"
+	//"$phongtint" "[2.12 1.75 .55]"
+	"$phongexponent" 7
+	"$phongboost" 7
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+	Proxies
+	{
+		UseHighlight
+		{
+			strength 3
+		}
+	}
+}
